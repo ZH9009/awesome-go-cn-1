@@ -120,7 +120,7 @@
 *用于操作音频的库。*
 
 * [EasyMIDI](https://github.com/algoGuy/EasyMIDI) - **Star : 20** **最近提交 : 2018-03-22**  EasyMidi是一个简单可靠的库，用于处理标准midi文件(SMF)。![金牌][Gold]
-* [flac](https://github.com/eaburns/flac) - **Star : 84** **最近提交 : 2017-10-04**  原生 Go FLAC解码器，将FLAC文件解码为字节片。![银牌][Sliver]
+* [flac](https://github.com/eaburns/flac) - **Star : 84** **最近提交 : 2017-10-04**  原生 Go FLAC解码器，将FLAC文件解码为字节片。![银牌][Silver]
 * [flac](https://github.com/mewkiz/flac) - **Star : 101** **最近提交 : 2019-02-22**  原生 Go FLAC编码器/解码器，支持FLAC流。![铜牌][Bronze]
 * [gaad](https://github.com/Comcast/gaad) - **Star : 55** **最近提交 : 2018-02-21**  原生 Go AAC位流解析器。
 * [go-sox](https://github.com/krig/go-sox) - **Star : 92** **最近提交 : 2018-06-21**  libsox 的 Go 语言实现接口。
